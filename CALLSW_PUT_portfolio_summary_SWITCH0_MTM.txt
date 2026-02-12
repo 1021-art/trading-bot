@@ -1,0 +1,14 @@
+CALL(싱글스위치) + PUT(라우터) Portfolio — SWITCH0(STRICT non-overlap)
+==============================================================================
+Trades: 131  | Dropped(overlap): 1
+Win-rate: 73.28%
+Multiple: 857300.2186x
+Realized MDD: -21.3535%
+MTM MDD(정밀): -22.1941%
+
+MTM Worst trade:
+ - idx: 5
+ - engine: CALL
+ - entry: 2021-01-29 07:45:00
+ - exit : 2021-01-29 18:15:00
+ - dd   : -22.1941%
